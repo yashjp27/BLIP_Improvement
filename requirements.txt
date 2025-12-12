@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+evaluate
+timm
+pandas
+numpy
+pillow
+matplotlib
