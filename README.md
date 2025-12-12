@@ -13,10 +13,10 @@ This project fine-tunes the BLIP image-captioning model (Salesforce/blip-image-c
 and evaluates performance using BLEU. Results are reported across multiple epochs and include qualitative examples.
 
 ## Contents
-- `notebook/` : Colab notebook used for fine-tuning and evaluation
-- `figures/` : qualitative samples, loss curve, BLEU vs epoch, BLEU equation figure
-- `results/` : CSV tables and qualitative outputs
-- `report/` : final course project report PDF
+- `notebook` : Colab notebook used for fine-tuning and evaluation
+- `figures` : qualitative samples, loss curve, BLEU vs epoch, BLEU equation figure
+- `results` : CSV tables and qualitative outputs
+- `report` : final course project report PDF
 
 ## Dataset
 Flickr8k is not included in this repository due to size/licensing.  
