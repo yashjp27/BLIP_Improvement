@@ -1,3 +1,0 @@
-Run,Train Loss,Val Loss,BLEU@200
-Epoch 1 (baseline),2.3334,2.2349,0.17805705554978052
-Epoch 2 (improved),2.0635,2.2337,0.1944406075573781
