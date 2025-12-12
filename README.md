@@ -1,4 +1,3 @@
-**# BLIP_Improvement
 # BLIP Fine-tuning on Flickr8k (CSE 589 Course Project)
 
 This project fine-tunes the BLIP image captioning model (Salesforce/blip-image-captioning-base) on Flickr8k
